@@ -1,0 +1,10 @@
+EN RUTA QUE SE ABRA POR DEFECTO EN CMD
+pip install opencv-contrib-python
+python
+import cv2
+cv2.__version__
+quit()
+pip install --upgrade imutils
+pip install -U scikit-learn
+pip install matplotlib
+pip install seaborn
